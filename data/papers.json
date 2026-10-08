@@ -1,0 +1,42 @@
+[
+  {
+    "exam": "Rajyaseva",
+    "stage": "Prelims",
+    "year": 2025,
+    "title": "General Studies Paper I",
+    "subject": "General Studies",
+    "pdf": ""
+  },
+  {
+    "exam": "Rajyaseva",
+    "stage": "Prelims",
+    "year": 2025,
+    "title": "CSAT",
+    "subject": "CSAT",
+    "pdf": ""
+  },
+  {
+    "exam": "Rajyaseva",
+    "stage": "Mains",
+    "year": 2024,
+    "title": "Paper I",
+    "subject": "Marathi & English",
+    "pdf": ""
+  },
+  {
+    "exam": "Group B",
+    "stage": "Prelims",
+    "year": 2025,
+    "title": "Combined Preliminary Examination",
+    "subject": "General Studies",
+    "pdf": ""
+  },
+  {
+    "exam": "Group C",
+    "stage": "Prelims",
+    "year": 2024,
+    "title": "Combined Preliminary Examination",
+    "subject": "General Studies",
+    "pdf": ""
+  }
+]
